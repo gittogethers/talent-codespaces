@@ -1,3 +1,6 @@
+Hola TalentLand DEVS!!! [pongan su patanllazo aqui para participar en la rifa](https://github.com/githubpresente/talentland23/discussions/9)
+
+
 ## Hiya! I'm [Andrea](https://github.com/readme/andrea-griffiths), my pronouns are she/her/hers. 
 I'm a Sr. Product Manager @GitHub, 🧰  I'm currently working on Product/DevRel.
 
