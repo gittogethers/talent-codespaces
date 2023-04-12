@@ -31,6 +31,10 @@ _Virtual Bio by [@carlogilmar](https://github.com/carlogilmar)_
     
  _Learn to use [GitHub Codespaces in Spanish](https://www.youtube.com/live/_1-jFB9kfAY?feature=share)_
 
+ # Eventos
+
+ Hola desde [TalentLand2023](gh.io/horario)
+
 
 ## 😎 Kinda fun facts:
 - I a mom to two boys and two 🐶 🐶 
